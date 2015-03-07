@@ -1,0 +1,500 @@
+1	885909617104	Apple Ipod Touch
+2	9780001049147	poetry ; scotland ; harvard classics ; burns ; scottish literature ; literature ; poems ; 18th century ; songs ; scottish ; fiction ; robert burns ; scottish poetry ; little leather library ; scots ; music ; hardcover ; robert
+3	9780001052017	fiction ; 19th century ; classic ; novel ; literature ; classics ; english literature ; british ; english ; british literature ; wessex ; hardy ; victorian ; thomas hardy ; england ; 1001 books ; classic fiction ; folio society ; 1001 ; novels ; romance ; penguin classics ; classic literature ; uk ; dorset ; 1880s ; everyman's library ; to-read ; ebook ; roman ; marriage
+4	9780001053618	fiction ; historical fiction ; canada ; canadian ; murder ; novel ; mystery ; crime ; canadian literature ; historical ; women ; canadian fiction ; 19th century ; 20th century ; 1001 ; prison ; literature ; atwood ; 1001 books ; feminism ; literary fiction ; history ; margaret atwood ; canadian author ; psychology ; contemporary fiction ; canadian lit ; mental illness ; contemporary ; grace marks ; to-read ; biographical fiction ; canlit ; novels ; feminist ; women murderers ; ontario ; first edition ; insanity ; giller prize ; booker prize shortlist ; hardcover ; library ; murder mystery ; toronto ; 1996 ; to read ; trials ; modern fiction ; english ; psychological fiction ; servants ; female author ; paperback ; booker shortlist ; roman ; victorian ; virago ; gender ; orange prize shortlist ; kingston ; 1990s ; 20th century fiction ; general fiction ; favorites ; borrowed ; book club ; literary ; spiritualism ; orange prize ; signed ; women writers ; unreliable narrator ; book group ; biography ; suspense ; canadian authors ; 2007 ; 2008 ; women authors ; 1800s ; memory ; historical novel ; 2006 ; true crime ; canadiana ; psychiatry ; 2010 ; ireland ; amnesia ; 2013 ; bookmooch ; 20th c ; autographed ; favourite ; drama ; crime fiction ; want to read ; murder trials ; quilting ; giller ; 1997 ; 2005 ; 2009 ; historical-fiction ; asylums ; 2011
+5	9780001473126	revelation ; commentary ; new testament ; dispensationalism ; prophecy
+6	9780001477889	eschatology
+7	9780001837119	winter ; fiction ; picture book ; children's ; mice ; brambly hedge ; seasons ; children ; picture books ; children's literature
+8	9780001837393	fiction ; autumn ; children's ; brambly hedge ; mice ; picture book ; children ; seasons ; children's books
+9	9780001839229	spring ; fiction ; mice ; children's ; picture book ; brambly hedge ; children ; picture books ; seasons ; children's fiction ; children's books; children's
+10	9780001845633	fiction ; children's
+11	9780001846432	fiction ; fantasy
+12	9780001856851	fiction
+13	9780001955073	fiction ; cats ; children's ; picture book ; childrens ; cat ; picture books
+14	9780001958043	picture book ; fiction ; tigers ; children's ; food ; picture books ; childrens ; children's literature ; tiger ; family ; children ; tea ; animals ; imagination
+15	9780001982321	fiction
+16	9780001982376	fiction
+17	9780001982437	fiction
+18	9780002000130	marriage ; feminism ; women ; non-fiction ; nonfiction ; sociology ; relationships ; women's studies
+19	9780002000147	fiction ; chick lit ; british ; humour ; 2007 ; friendship
+20	9780002000185	fiction ; australia ; terrorism ; novel ; australian ; australian fiction ; sydney ; media ; thriller ; australian author ; strippers
+21	9780002000192	travel ; africa
+22	9780002000406	history ; biography ; england ; non-fiction ; elizabeth i ; british history ; mary queen of scots ; tudor ; scotland ; nonfiction ; tudors ; royalty ; english history ; queen elizabeth i ; historical ; queens ; 16th century ; britain ; tudor history ; scottish history ; women ; british royalty ; elizabethan
+23	9780002000468	history ; sexuality
+24	9780002000543	arctic ; history ; exploration ; biography ; canada ; northwest passage ; polar exploration ; john rae
+25	9780002000611	biography
+26	9780002000635	business
+27	9780002000673	true crime
+28	9780002000888	spirituality ; self help ; inspiration
+29	9780002000895	politics ; canada ; history
+30	9780002000987	history ; biography ; arctic ; exploration
+31	9780002001007	travel ; china
+32	9780002005012	fiction ; canadian ; sisters ; giller prize ; canada ; ontario ; canadian fiction ; canadian literature ; historical fiction ; canadian author ; novel ; 1930s ; canlit ; literary fiction ; women ; epistolary
+33	9780002005074	eating disorders ; fiction ; anorexia
+34	9780002005081	fiction ; thriller ; canadian
+35	9780002005098	fiction ; family ; novel ; american ; national book award ; american literature ; literature ; contemporary fiction ; usa ; dysfunctional family ; contemporary ; roman ; 21st century ; 1001 books ; 1001 ; american fiction ; philadelphia ; midwest ; america ; oprah ; parkinson's disease ; literary fiction ; oprah's book club ; novels ; to-read ; families ; franzen ; relationships ; humor ; to read ; hardcover ; first edition ; jonathan franzen ; 2002 ; parkinson's ; dysfunction ; dementia ; book club ; 20th century ; 2001 ; us ; new york ; signed ; 2000s ; dysfunctional families ; marriage ; contemporary literature ; christmas ; english ; national book award winner ; dysfunctional ; 2011 ; american lit ; aging ; depression ; domestic fiction ; 2003 ; united states ; familie ; nba ; audiobook ; illness ; ebook ; lithuania ; satire ; modern ; pulitzer prize finalist ; siblings ; family saga ; favorites ; mental illness ; narrativa ; 2012 ; family relationships ; parkinsons ; 2006 ; belletristik ; unfinished ; drama ; 2010 ; family drama ; literary ; modern fiction ; paperback ; married women ; parent and adult child ; death ; 2008 ; kindle ; postmodern ; new york city ; bookclub ; library ; humour ; parents ; 2007 ; lit ; already read ; amerikanische literatur ; alzheimer's ; home ; family life ; hc ; adult ; favorite ; 2005 ; award winner ; alzheimers ; adultery ; hysterical realism ; middle west ; pulitzer finalist ; finished ; us fiction ; parkinson ; 2009 ; 21st century fiction ; skönlitteratur ; brilliant ; old age ; r ; sexuality ; borrowed ; fictie ; family dysfunction ; 1001 books to read before you die ; literatuur ; general fiction ; parenting ; drugs ; modern life ; pennsylvania ; tom hayes' library ; hardback
+36	9780002005128	fiction ; dogs
+37	9780002005135	fiction ; canadian
+38	9780002005159	fiction ; india ; novel ; indian fiction ; sisters ; women
+39	9780002005180	short stories ; fiction
+40	9780002005203	fiction ; colombia
+41	9780002005241	fiction ; mystery ; crime ; thriller ; tony hill ; crime fiction ; carol jordan ; series ; british ; england ; serial killer ; germany ; psychology ; krimi ; psychological thriller ; suspense
+42	9780002005265	mystery ; fiction ; native american ; navajo ; southwest ; jim chee ; new mexico ; joe leaphorn ; native americans ; crime ; detective ; hillerman ; arizona ; chee ; novel ; american southwest ; series ; tony hillerman ; ebook ; navaho ; leaphorn ; first edition ; drugs ; hopi ; 2003 ; mysteries ; paperback
+43	9780002005272	fiction ; historical fiction ; victorian ; prostitution ; london ; historical ; england ; 19th century ; novel ; prostitutes ; victorian england ; british ; to-read ; sex ; women ; history ; prostitute ; romance ; uk ; contemporary fiction ; literature ; kindle ; roman ; british literature ; victorian era ; library ; 21st century ; historical-fiction ; to read ; historical novel ; novels ; british fiction ; mystery ; mental illness ; 2003 ; class ; english literature ; hardcover ; paperback ; english ; favorites ; victorian london ; literary fiction ; britain ; neo-victorian ; governess ; poverty ; literatuur ; dutch ; general fiction ; literary ; great britain ; marriage ; wishlist ; adult ; 2011 ; religion ; young women ; ebook ; contemporary ; book club ; 2007 ; narrativa ; 2009 ; family ; perfume ; victoriana ; gender
+44	9780002005296	fiction ; satire
+45	9780002005302	fiction ; mystery ; legal thriller ; thriller ; novel ; legal ; suspense ; crime ; turow ; legal fiction ; first edition ; law ; kindle county ; death row
+46	9780002005364	fiction ; italy ; italian ; thriller ; childhood ; kidnapping ; crime ; italian literature ; 1001 ; italian fiction ; mystery ; novel ; suspense ; translation ; romanzo ; roman ; 1001 books ; narrativa ; children ; 21st century ; literature ; italia ; family ; contemporary ; narrativa italiana ; coming of age ; translated ; italië
+47	9780002005371	fantasy ; adventure ; pirates ; fiction ; steampunk ; young adult ; ya ; airships ; science fiction ; alternate history ; canadian ; series ; romance ; airship ; flying ; teen ; printz honor ; action ; imaginary creatures ; airborn ; sci-fi ; to-read ; sf ; shipwreck ; ships ; juvenile ; audio ; audiobook ; flight ; children's ; novel ; victorian ; printz ; teen fiction ; canadian author ; friendship ; alternate reality ; goodreads ; library ; boys
+48	9780002005395	fiction ; canadian ; canada ; deafness ; historical fiction ; wwi ; deaf ; world war i ; novel ; book club ; war ; canadian author ; ontario ; canlit ; ww1 ; historical ; canadian fiction
+49	9780002005401	fiction ; canadian ; canada
+50	9780002005418	fiction
+51	9780002005425	fiction
+52	9780002005463	fiction ; thriller ; mystery ; legal thriller
+53	9780002005487	fiction ; canadian ; canadian literature ; mental illness ; canada ; novel ; canlit ; canadian fiction ; canadian author ; historical fiction
+54	9780002005494	fiction ; canadian ; canada ; mental illness ; toronto ; canadian literature ; novel
+55	9780002005517	fiction ; canadian ; canadian literature ; novel ; immortality ; psychology ; jung ; fantasy ; historical fiction ; literature ; canadian fiction ; history ; canada ; psychiatry ; roman
+56	9780002005531	slavery ; history ; canada
+57	9780002005555	fiction ; south africa ; africa
+58	9780002005562	fiction
+59	9780002005579	fiction ; historical fiction
+60	9780002005593	fiction ; walt whitman ; novel ; science fiction ; american ; new york ; american literature ; signed ; new york city ; gay ; first edition ; roman ; historical fiction ; contemporary fiction ; short stories ; future ; 2005 ; literature ; usa ; 21st century ; novellas ; 2006 ; whitman ; sci-fi ; literary fiction ; american fiction ; historical
+61	9780002005616	picture book ; australia ; wombats ; fiction ; animals ; wombat ; children's ; humor ; diary ; childrens ; picture books ; diaries ; voice ; children ; australian ; funny ; writing ; fantasy
+62	9780002005623	fiction
+63	9780002005685	fiction ; short stories ; canadian ; toronto ; canada ; canada reads ; jewish ; stories ; immigrants
+64	9780002005692	fiction ; india
+65	9780002005708	fiction
+66	9780002005777	fiction ; family ; australia ; coming of age ; australian ; drugs
+67	9780002005791	fiction
+68	9780002005869	fiction ; canadian
+69	9780002005883	fiction ; religion ; novel ; pulitzer prize ; pulitzer ; american ; literature ; christianity ; iowa ; family ; american literature ; clergy ; fathers and sons ; kansas ; spirituality ; 21st century ; contemporary ; literary fiction ; american fiction ; faith ; contemporary fiction ; midwest ; to-read ; book club ; 2006 ; america ; historical fiction ; pulitzer prize winner ; death ; novels ; christian ; usa ; 2005 ; to read ; 2009 ; fathers ; 2008 ; christian fiction ; signed ; national book critics circle award ; first edition ; aging ; audio ; sons ; minister ; love ; us ; epistolary ; spiritual ; wishlist ; library ; 2007 ; book group ; favorites ; audiobook ; favorite ; marilynne robinson ; borrowed ; want to read ; small town ; father ; 20th century ; domestic fiction ; general fiction ; civil war ; hardcover ; literary ; american lit ; pulitzer winner ; preachers ; virago ; history ; orange ; robinson ; orange prize ; paperback ; read in 2010 ; epistolary fiction ; home ; 2000s ; religious ; relationships ; old age ; modern fiction ; adult fiction ; read 2006 ; gilead ; adult ; read in 2006 ; historical ; 21st century fiction ; life ; forgiveness ; ministers ; abolition ; signed by marilynne robinson. ; slavery ; families ; religious fiction ; nbcc ; orange prize longlist ; modern ; theology ; pastor ; children of clergy ; fatherhood ; award winner ; letters
+70	9780002005890	fiction
+71	9780002005913	fiction ; college ; novel ; coming of age ; american ; american literature ; college life ; academia ; sex ; literature ; contemporary fiction ; north carolina ; tom wolfe ; 21st century ; satire ; contemporary ; roman ; university ; usa ; hardcover ; relationships ; 2005 ; america ; social commentary ; audiobook ; race relations ; american fiction ; to read ; first edition ; novels ; literary fiction ; audio ; basketball ; fraternities ; wolfe ; social classes ; 2006 ; fraternity ; 2000s
+72	9780002005920	fiction ; india ; novel
+73	9780002005944	fiction ; vancouver ; canada
+74	9780002005968	fiction ; south africa ; africa ; apartheid
+75	9780002005975	biography
+76	9780002005982	fiction ; australia ; historical fiction ; australian ; convicts ; aborigines ; historical ; australian fiction ; history ; london ; new south wales ; novel ; 19th century ; australian literature ; australian author ; colonialism ; kindle ; australian history ; booker prize shortlist ; book club ; penal colony ; wishlist ; 2007 ; england ; 2012 ; ebook ; booker shortlist ; aboriginals ; hawkesbury ; family ; contemporary fiction ; transportation ; booker ; 21st century ; settlers ; 2006 ; literature ; commonwealth writers' prize ; hawkesbury river ; literary fiction ; kate grenville ; penal colonies ; audio ; sydney ; orange prize ; 2010 ; pioneers
+77	9780002006026	fiction ; india ; novel ; poverty ; indien ; mumbai ; movie ; roman ; 2009 ; game show ; indian ; indian literature ; quiz shows ; film ; inde ; contemporary fiction ; read in 2009 ; quiz ; movie tie-in ; vikas swarup ; contemporary ; made into movie ; quiz show ; luck ; love ; 21st century ; audiobook ; to read ; swarup ; dvd ; game shows ; slumdog millionaire ; indian fiction
+78	9780002006040	fiction ; texas ; great depression
+79	9780002006071	romania
+80	9780002006118	fiction
+81	9780002006156	fiction ; historical fiction
+82	9780002006163	religion ; christianity ; bible ; theology ; nonfiction ; spirituality ; bible study ; non-fiction; short stories ; fiction ; canadian
+83	9780002006187	fantasy ; mermaids ; fiction ; children's fiction ; young adult ; ya ; ocean ; adventure ; england ; children's ; children ; cornwall
+84	9780002006194	fantasy ; fiction ; mermaids
+85	9780002006200	fantasy ; fiction
+86	9780002006248	mystery ; fiction ; murder ; ya ; young adult ; alice in wonderland ; series ; soccer ; acting ; theater ; echo falls ; sherlock holmes ; suspense ; teen ; theatre ; adventure ; middle school ; family ; crime ; girl ; juvenile fiction ; drama ; girls ; children's
+87	9780002006255	fiction ; russia ; siberia ; historical fiction ; novel ; historical ; russian revolution ; cannibalism ; revolution ; castration ; war ; religion ; british ; literary fiction ; 21st century ; novels ; 2006
+88	9780002006279	fiction ; mystery ; england ; sisters ; historical fiction
+89	9780002006378	fiction ; canadian ; women ; canada
+90	9780002006392	non-fiction ; poetry ; night ; anthology ; science ; nonfiction ; insomnia
+91	9780002006446	travel ; afghanistan ; middle east ; central asia ; non-fiction ; history ; iraq ; pakistan ; iran ; carpets ; nonfiction ; travelogue
+92	9780002006521	essays ; non-fiction ; nonfiction ; american ; fiction ; essay ; literature ; writing ; literary criticism ; memoir ; jonathan franzen ; culture ; american literature ; franzen ; solitude ; usa ; short stories ; 21st century ; criticism ; to-read ; anthology ; hardcover ; family ; journalism
+93	9780002006538	biography ; art ; non-fiction ; nonfiction ; women ; artists ; history ; muses ; literature ; women's studies ; inspiration ; yoko ono ; creativity ; essays
+94	9780002006552	fantasy ; fiction ; bats ; animals ; adventure ; series ; young adult ; children's ; ya ; canadian ; grade 5 ; u-w ; juvenile ; children's literature ; children ; anthropomorphic ; juvenile fiction ; silverwing ; novel ; friendship ; youth
+95	9780002006583	fiction ; historical fiction
+96	9780002006668	mystery ; fiction ; crime ; england ; lake district ; wordsworth ; thriller ; fletcher christian ; crime fiction ; mutiny on the bounty ; william wordsworth ; murder ; british ; krimi ; 2007 ; novel
+97	9780002006699	science ; brain
+98	9780002006705	biography
+99	9780002006712	biography ; history ; non-fiction ; arctic
+100	9780002006729	cooking ; cookbook
+101	9780002006743	spirituality
+102	9780002006750	history
+103	9780002006767	biography ; non-fiction
+104	9780002006798	fiction ; cancer ; death ; epistolary ; family ; relationships ; breast cancer ; ya ; young adult ; mothers ; daughters ; teens ; notes ; mother ; mother-daughter relationships ; illness ; life
+105	9780002006811	fantasy
+106	9780002006835	fantasy
+107	9780002006897	fiction ; canadian
+108	9780002006903	fiction ; canadian
+109	9780002006910	mystery ; crime
+110	9780002006972	fiction ; amnesia ; novel ; fantasy ; mystery ; thriller ; memory ; postmodern ; metafiction ; science fiction ; british ; experimental ; sharks ; literature ; english ; 2008 ; england ; 2007 ; jaws ; memory loss ; shark ; sci-fi ; signed ; suspense ; surreal ; hardcover ; language ; conceptual ; 2010 ; literary fiction ; 2009 ; to-read ; sf ; post-modern ; magical realism ; contemporary ; romance
+111	9780002006996	fantasy ; adventure ; fiction ; steampunk ; young adult ; ya ; airships ; pirates ; science fiction ; romance ; series ; alternate history ; airborn ; inventions ; teen ; canadian ; imaginary creatures ; sf ; flying
+112	9780002007009	picture book ; dogs ; food
+113	9780002007016	biography ; economics
+114	9780002007023	short stories ; fiction ; canadian
+115	9780002007078	fiction ; short stories ; love ; signed ; novel ; american ; san francisco ; contemporary ; humor ; to-read ; romance ; contemporary fiction ; arc ; california ; autographed
+116	9780002007085	horses ; dressage ; young adult ; homosexuality ; friendship ; ya ; boarding school ; canada ; fiction ; glbt ; cowboys
+117	9780002007092	ya ; high school ; popularity ; realistic fiction ; fiction ; canadian ; arc ; cooking ; mystery ; young adult
+118	9780002007115	writing ; australia ; history ; nonfiction
+119	9780002007139	thriller ; fiction ; mystery ; crime ; horror ; scotland ; cults ; crime fiction
+120	9780002007146	memoir ; non-fiction ; neuroscience ; biography ; medicine ; stroke ; writing ; canadian
+121	9780002007153	short stories ; fiction ; australia ; australian ; western australia ; australian literature ; australian fiction ; australian author ; novel
+122	9780002007177	fiction ; new york ; roman ; italian ; italy ; immigration
+123	9780002007191	mystery ; fiction ; sherlock holmes ; historical fiction ; pastiche ; scotland ; holmes ; detective ; victorian ; historical mystery ; crime ; novel ; historical ; england ; 19th century ; paperback ; crime fiction ; thriller ; mary queen of scots ; murder ; mysteries ; sherlockiana ; edinburgh
+124	9780002007214	fiction ; japan ; thriller ; mystery ; crime ; china ; tokyo ; nanking ; roman ; japon ; novel ; war ; crime fiction ; suspense ; krimi ; wwii ; nanking massacre ; yakuza
+125	9780002007245	memoir
+126	9780002007269	fiction ; historical fiction ; wwii ; england ; coventry ; canadian ; war ; world war ii ; ww2 ; bombing ; women ; canadian author ; wwi
+127	9780002007283	birds ; environment ; science
+128	9780002007320	fiction ; wwii ; mystery ; historical fiction ; world war ii ; war ; novel ; thriller
+129	9780002007368	short stories ; fiction
+130	9780002007382	fiction ; ireland ; mental illness ; novel ; family ; 1001 ; irish ; adolescence ; australian ; coming of age ; booker ; lies ; 1001 books ; 2007
+131	9780002007399	fashion ; non-fiction
+132	9780002007405	science ; mathematics ; prediction
+133	9780002007436	fiction ; canadian ; women ; canada
+134	9780002007443	fantasy ; fiction ; bats ; animals ; ya
+135	9780002007450	fantasy ; adventure ; science fiction ; steampunk ; fiction ; ya ; romance ; young adult ; airships ; space ; alternate history ; series ; sci-fi ; outer space ; 2009
+136	9780002007511	science ; climate change ; environment ; global warming ; non-fiction ; nonfiction ; climate ; weather ; ecology ; climatology ; politics ; environmentalism ; nature ; sustainability ; meteorology ; history ; current affairs ; natural history ; non fiction ; 2007 ; wishlist ; environmental
+137	9780002007580	history ; israel ; terrorism ; non-fiction ; nonfiction ; middle east ; military ; espionage
+138	9780002007597	fiction
+139	9780002007641	food ; science ; nutrition ; health
+140	9780002007696	thriller
+141	9780002007702	sri lanka ; fiction ; war ; torture ; civil war
+142	9780002007719	fiction ; contemporary fiction
+143	9780002007740	memoir ; mental illness ; nonfiction ; non-fiction ; psychology ; bipolar ; arc ; biography ; family ; new york ; bipolar disorder ; psychosis ; 2009 ; to read ; memoirs
+144	9780002007757	historical fiction ; france ; fiction ; louis xiv ; historical ; louise de la valliere ; 17th century ; 2008
+145	9780002007771	fiction ; circus ; historical fiction ; great depression ; elephants ; romance ; animals ; love ; book club ; novel ; aging ; depression ; 1930s ; 2007 ; depression era ; 2008 ; historical ; circus life ; circuses ; love story ; kindle ; elephant ; to-read ; old age ; 2011 ; murder ; american ; contemporary fiction ; adult ; trains ; veterinarian ; 2009 ; literature ; history ; audio ; audiobook ; relationships ; to read ; library ; circus performers ; ebook ; elderly ; veterinarians ; 1930's ; nursing home ; read in 2008 ; sara gruen ; abuse ; bookclub ; book group ; nursing homes ; literary fiction ; adult fiction ; adventure ; america ; contemporary ; train ; 20th century ; usa ; movie ; the great depression ; read 2007 ; 21st century ; alex award ; canadian ; friendship ; favorite ; 2010 ; favorites ; read in 2007 ; drama ; memories ; animal cruelty ; love stories ; already read ; mystery ; gruen ; borrowed ; 2006 ; read 2008 ; read in 2011 ; goodreads ; paperback ; american fiction ; horses ; performers ; united states ; prohibition ; audible ; read 2011 ; historical-fiction ; american literature ; family ; the depression ; general fiction ; circus fiction ; schizophrenia ; mental illness ; travel ; circus animals ; veterinary ; novels ; vet ; menagerie ; signed ; 1920s ; adultery ; death ; coming of age ; orphans ; fic ; wishlist ; read 2009 ; f ; love triangle ; read 2010 ; audio book ; domestic abuse ; marriage ; flashbacks ; depressions ; literary ; animal abuse ; cruelty ; finished ; modern fiction ; cornell ; chicago ; roman ; rosie ; memoir ; first edition ; nook ; carnival ; domestic violence ; 2012 ; cd ; 2000s ; poverty ; us ; assisted living ; water for elephants ; violence ; grief ; circus history ; women ; traveling circus ; sirkus ; read in 2009 ; made into movie ; senior citizens ; read in 2006 ; clowns ; affair ; canadian literature ; e-book ; read in 2012 ; read in 2010 ; canadian author ; memory ; want to read ; marlena ; gift
+146	9780002007795	history ; wwi ; world war i
+147	9780002007801	food ; travel ; non-fiction ; history ; drugs
+148	9780002007818	food ; non-fiction ; fish ; environment ; seafood ; nonfiction ; arc
+149	9780002007825	psychology ; body language
+150	9780002007832	history
+151	9780002007870	history ; halifax ; canada ; disaster ; nova scotia ; non-fiction ; disasters ; wwi ; nonfiction ; world war i ; explosion ; canadian ; canadian history ; explosions ; halifax explosion
+152	9780002007894	history ; biography ; british history ; england
+153	9780002007900	consumerism ; counterculture ; non-fiction ; culture ; sociology ; nonfiction ; economics ; cultural studies ; politics ; capitalism ; advertising ; society ; marketing ; culture jamming
+154	9780002007917	statistics ; mathematics ; probability ; non-fiction ; math ; science ; nonfiction
+155	9780002007931	horse racing ; horses
+156	9780002007979	judaism ; history
+157	9780002008006	cooking
+158	9780002008020	biography
+159	9780002008037	finance ; money ; wealth ; business ; success ; non-fiction ; self-help ; personal development ; investing ; personal finance
+160	9780002008051	biography ; royalty ; history ; england ; great britain ; non-fiction ; british history ; british ; 20th century
+161	9780002008075	fiction ; agoraphobia
+162	9780002008112	food ; economics ; non-fiction ; agriculture ; politics ; food politics ; globalization ; sustainability ; poverty ; environment ; nonfiction ; food industry ; political economy ; hunger ; to-read
+163	9780002008150	fiction ; london ; novel ; england ; british ; desi
+164	9780002008181	mystery ; fiction ; steroids ; ya ; sherlock holmes ; kidnapping ; series ; soccer ; young adult ; family ; drugs ; echo falls ; crime ; middle school ; sports ; teen ; detective
+165	9780002008211	ghosts ; mystery ; murder ; horror
+166	9780002008235	mystery ; fiction ; crime ; england ; lake district ; wordsworth ; thriller ; fletcher christian ; crime fiction ; mutiny on the bounty ; william wordsworth ; murder ; british ; krimi ; 2007 ; novel
+167	9780002008280	young adult ; ya ; fiction ; canadian ; teen ; humour
+168	9780002008297	memoir ; non-fiction ; essays ; autobiography ; biography ; nonfiction ; american ; fiction ; franzen ; hardcover ; jonathan franzen ; usa ; writing ; 2007 ; midwest
+169	9780002008303	fiction
+170	9780002008310	science ; climate change ; environment ; global warming ; non-fiction ; nonfiction ; climate ; weather ; ecology ; climatology ; politics ; environmentalism ; nature ; sustainability ; meteorology ; history ; current affairs ; natural history ; non fiction ; 2007 ; wishlist ; environmental
+171	9780002008327	biography
+172	9780002008341	fiction ; middle east
+173	9780002008365	fiction
+174	9780002008402	fiction ; amnesia ; novel ; fantasy ; mystery ; thriller ; memory ; postmodern ; metafiction ; science fiction ; british ; experimental ; sharks ; literature ; english ; 2008 ; england ; 2007 ; jaws ; memory loss ; shark ; sci-fi ; signed ; suspense ; surreal ; hardcover ; language ; conceptual ; 2010 ; literary fiction ; 2009 ; to-read ; sf ; post-modern ; magical realism ; contemporary ; romance
+175	9780002008426	fiction ; mystery ; legal thriller ; crime ; thriller ; legal ; rape
+176	9780002008464	fiction ; canadian ; kidnapping ; toronto ; child abduction
+177	9780002008471	humor ; non-fiction
+178	9780002008495	climate change ; science ; environment ; non-fiction ; global warming
+179	9780002008501	ya
+180	9780002008518	fiction ; india ; novel ; crime ; mystery ; mumbai ; bombay ; indian ; indian literature ; police ; literature ; signed ; roman ; thriller ; gangsters ; crime fiction ; indian fiction ; detective ; 2007 ; indien ; contemporary ; arc ; organized crime ; to read ; contemporary fiction ; 21st century
+181	9780002008563	fiction ; afghanistan
+182	9780002008570	history ; canada
+183	9780002008594	self help ; self-help ; non-fiction ; philosophy ; inspirational ; spiritual ; spirituality ; personal development ; self improvement ; fiction ; psychology ; life
+184	9780002008648	science ; environment ; non-fiction ; nonfiction ; ecology ; nature ; future ; environmentalism ; biology ; evolution ; 2008 ; history ; to-read ; 2007 ; post-apocalyptic ; earth ; civilization ; natural history ; speculative ; wishlist ; popular science ; material culture ; speculation ; non fiction ; to read ; environmental ; library ; audiobook ; humanity ; sustainability ; human-animal relationships ; environmental science ; apocalypse ; human-plant relationships ; global warming ; politics ; ebook ; geography ; geology ; 2009 ; extinction ; pollution ; read in 2008 ; thought experiment ; borrowed ; fiction ; climate change ; hardcover ; conservation ; alan weisman ; philosophy ; current events ; sachbuch ; animals ; green ; climate ; want to read ; speculative non-fiction ; american ; gift ; anthropology ; futurism ; human ecology ; 21st century ; technology ; environmental issues ; read in 2007 ; audio ; post-apocalypse ; society
+185	9780002008655	fiction ; italy ; tuscany
+186	9780002008815	fiction
+187	9780002008860	survival ; nonfiction
+188	9780002008884	fantasy ; adventure ; pirates ; fiction ; steampunk ; young adult ; ya ; airships ; science fiction ; alternate history ; canadian ; series ; romance ; airship ; flying ; teen ; printz honor ; action ; imaginary creatures ; airborn ; sci-fi ; to-read ; sf ; shipwreck ; ships ; juvenile ; audio ; audiobook ; flight ; children's ; novel ; victorian ; printz ; teen fiction ; canadian author ; friendship ; alternate reality ; goodreads ; library ; boys
+189	9780002008891	fiction ; young adult ; ya ; teen ; canada ; humor ; humour ; coming of age ; homeschooling ; canadian ; british columbia ; high school ; ya fiction ; homeschool
+190	9780002008921	fiction ; canadian ; kidnapping ; toronto ; child abduction
+191	9780002008938	fiction
+192	9780002008945	romania
+193	9780002008952	history ; canada ; non-fiction
+194	9780002008969	fantasy ; fiction ; mermaids
+195	9780002110389	mystery
+196	9780002118729	letters
+197	9780002154123	cookbook ; cooking ; france ; french ; french cooking ; cookbooks; cookbook ; pacific northwest ; cooking
+198	9780002154468	cooking ; cookbook ; italy ; food ; italian ; italian cooking ; cookbooks ; cookery
+199	9780002154987	animals ; nature ; zoos ; autobiography
+200	9780002156790	canada
+201	9780002156899	travel
+202	9780002159319	cooking ; california ; cookbook
+203	9780002159494	cooking ; cookbook ; mexico ; mexican ; food ; cookbooks
+204	9780002161329	history ; economics ; capitalism ; economic history ; european history ; europe ; social history ; world history ; non-fiction ; renaissance ; nonfiction ; 18th century ; commerce ; early modern ; civilization ; 17th century ; 16th century ; annales school
+205	9780002163033	history ; economics ; capitalism ; europe ; social history ; european history ; economic history ; world history ; non-fiction ; nonfiction ; renaissance ; 18th century ; early modern ; 17th century ; 15th century ; 16th century ; civilization ; world ; sociology ; middle ages ; annales ; annales school ; geschiedenis ; political economy ; culture
+206	9780002171854	survival ; reference ; non-fiction ; outdoors ; sas ; camping ; military ; travel ; nonfiction ; wilderness ; nature ; first aid ; preparedness ; guide ; backpacking ; bushcraft ; non fiction ; how-to ; hiking ; outdoor
+207	9780002173803	photography
+208	9780002177733	history ; france ; french history ; nonfiction; france ; history
+209	9780002177740	france ; history ; histoire; france ; history
+210	9780002187954	football ; arsenal ; biography ; sport
+211	9780002198943	birds ; europe ; nature ; natural history ; reference ; field guide ; field guides ; vogels ; birding ; britain
+212	9780002199186	insects ; natural history ; entomology
+213	9780002200370	birds ; natural history ; britain
+214	9780002211369	fiction ; romance ; egypt ; suspense ; gothic romance ; historical fiction ; gothic
+215	9780002214032	fiction ; romance ; gothic ; suspense
+216	9780002214087	fiction ; romance ; gothic ; mystery ; historical fiction ; romantic suspense ; gothic romance ; historical ; suspense
+217	9780002214384	fiction ; thriller
+218	9780002216852	historical fiction ; fiction ; marie antoinette ; historical ; france ; romance ; french revolution
+219	9780002217354	fiction ; romance ; gothic ; mystery ; suspense ; historical fiction
+220	9780002217460	fiction ; romance ; suspense ; mystery ; historical fiction ; gothic ; gothic romance
+221	9780002218665	fiction ; thriller ; mystery
+222	9780002219969	fiction ; historical fiction ; flashman ; historical
+223	9780002219983	fiction
+224	9780002221160	fiction ; thriller ; suspense ; mystery
+225	9780002222921	fiction ; historical fiction ; flashman ; historical ; adventure ; novel ; humor ; humour ; madagascar ; military ; borneo ; victorian ; 19th century ; history ; cricket ; war ; british ; series ; paperback ; singapore ; satire
+226	9780002222952	fiction ; romance ; mystery ; historical fiction ; gothic romance ; gothic
+227	9780002223539	fiction
+228	9780002223799	fiction ; romance ; historical fiction ; gothic ; gothic romance ; suspense
+229	9780002223836	fiction ; historical fiction ; historical ; napoleonic wars ; aubrey/maturin ; naval ; nautical ; age of sail ; novel ; aubrey-maturin ; sailing ; adventure ; naval fiction ; royal navy ; folio society ; nautical fiction ; maritime ; navy ; military ; sea ; 19th century ; series ; aubrey ; british ; history ; napoleonic ; war ; seafaring ; british navy ; naval history ; patrick o'brian ; england ; literature ; 20th century ; maturin ; sea stories ; jack aubrey ; historical novel ; english ; mauritius ; o'brian ; aubrey maturin ; britain ; british literature ; english literature ; aubrey-maturin series ; ships ; stephen maturin ; indian ocean ; napoleon ; library ; audiobook ; military fiction ; novels ; sailing ships ; ebook ; aubrey/maturin series ; paperback ; friendship ; napoleonic era ; roman ; great britain ; british fiction ; audio ; 2009
+230	9780002223997	fiction
+231	9780002224222	fiction ; romance ; historical fiction ; gothic ; historical romance ; french revolution
+232	9780002224284	fiction ; quiller ; spy ; thriller
+233	9780002224871	fiction ; quiller ; thriller ; spy ; espionage
+234	9780002226219	fiction ; thriller
+235	9780002226615	fiction ; historical fiction ; flashman ; historical ; adventure ; novel ; humor ; humour ; 19th century ; military ; history ; victorian ; british ; comedy ; series ; british empire ; flashman papers ; satire ; little big horn ; america ; usa
+236	9780002226929	fiction ; romance ; gothic ; historical fiction ; gothic romance
+237	9780002227568	fiction ; romance ; gothic ; mystery ; historical fiction ; gothic romance ; suspense
+238	9780002227643	fiction
+239	9780002228367	fiction ; romance ; mystery ; gothic ; historical fiction
+240	9780002228701	fiction ; thriller
+241	9780002229050	fiction ; england
+242	9780002229470	fiction ; romance ; mystery ; gothic ; gothic romance ; historical fiction ; suspense
+243	9780002231060	thriller ; fiction
+244	9780002231114	fantasy ; fiction ; fionavar tapestry ; fionavar ; arthurian ; series ; canadian ; high fantasy ; novel ; epic fantasy ; mythology ; sf ; magic ; sff ; trilogy ; guy gavriel kay ; epic ; the fionavar tapestry ; kay ; science fiction ; paperback ; parallel worlds ; king arthur ; to-read ; speculative fiction ; time travel ; canadian author ; green dragon ; celtic ; arthur ; to read ; arthurian legend ; fantasy fiction ; wizards ; historical fantasy ; fantasia
+245	9780002231725	fantasy ; fiction ; fionavar tapestry ; arthurian ; fionavar ; series ; high fantasy ; canadian ; epic fantasy ; novel ; the fionavar tapestry ; sf ; guy gavriel kay ; king arthur ; mythology ; trilogy ; sff ; magic ; paperback ; speculative fiction ; epic ; kay ; arthurian legend ; parallel worlds ; arthur ; celtic ; green dragon ; science fiction ; book 2 ; hardcover ; novels ; canadian author ; favorites ; fantasia
+246	9780002232760	fantasy ; fiction ; fionavar tapestry ; arthurian ; fionavar ; series ; canadian ; high fantasy ; novel ; epic fantasy ; mythology ; epic ; sf ; guy gavriel kay ; trilogy ; sff ; the fionavar tapestry ; king arthur ; paperback ; arthur ; magic ; parallel worlds ; celtic ; kay ; hardcover ; speculative fiction ; science fiction ; green dragon ; arthurian legend ; fantasia
+247	9780002232869	fiction ; short stories
+248	9780002234092	fiction ; romance ; historical fiction ; gothic ; suspense ; india ; mystery ; gothic romance ; historical romance ; england
+249	9780002236430	historical fiction ; fiction ; sharpe ; napoleonic wars ; historical ; military ; war ; richard sharpe ; history ; military fiction ; waterloo ; adventure ; napoleonic ; napoleon ; 19th century ; british ; ebook ; bernard cornwell ; historical novel ; military history
+250	9780002238267	fiction ; historical fiction ; aubrey/maturin ; naval ; napoleonic wars ; historical ; nautical ; aubrey-maturin ; naval fiction ; age of sail ; adventure ; nautical fiction ; sea ; navy ; maritime ; sailing ; novel ; 19th century ; aubrey ; series ; royal navy ; military ; british ; history ; patrick o'brian ; war ; sea stories ; o'brian ; literature ; napoleonic ; maturin ; seafaring ; naval history ; jack aubrey ; england ; british navy ; 20th century ; ebook ; english ; aubrey maturin ; british literature ; folio society ; historical novel ; ships ; stephen maturin ; britain ; military fiction
+251	9780002238489	fiction ; thriller
+252	9780002238649	fiction ; romance ; historical fiction ; gothic romance ; mystery
+253	9780002240000	short stories ; canadian ; fiction ; canada
+254	9780002241939	fiction ; romance ; gothic romance ; mystery ; historical fiction ; suspense ; romantic suspense
+255	9780002242622	historical fiction ; fiction ; england ; wwi
+256	9780002243810	horror
+257	9780002244046	fiction ; microsoft ; novel ; computers ; canadian ; technology ; humor ; geek ; silicon valley ; geeks ; humour ; coupland ; contemporary ; american ; programming ; contemporary fiction ; computing ; 1990s ; generation x ; geek culture ; culture ; computer ; satire ; seattle ; literature ; pop culture ; canadian literature ; douglas coupland ; 20th century ; hardcover ; roman ; software ; it ; comedy ; general fiction ; tech ; california ; novels ; business ; usa ; work ; paperback ; internet ; canada ; first edition ; america ; non-fiction ; nerds ; canadian author ; canadian fiction ; postmodern ; gen x ; friendship ; computer science ; canlit ; programmers ; to read ; american literature ; signed ; borrowed
+258	9780002245685	fantasy ; fiction
+259	9780002245708	science ; mathematics ; prediction
+260	9780002246682	science fiction ; fiction ; fantasy ; sf ; time travel ; sci-fi ; sff ; scifi ; ecology ; mystery ; feminism ; feminist ; novel ; speculative fiction ; tepper ; sci fi ; environment ; future ; post-apocalyptic ; animals
+261	9780002250009	fiction ; sf ; science fiction
+262	9780002250351	cookbook ; cooking ; texas
+263	9780002250382	mermaids ; art
+264	9780002250511	cooking
+265	9780002250535	cookbook ; italy ; cooking ; italian
+266	9780002250610	france ; provence
+267	9780002252010	tea
+268	9780002254168	fiction
+269	9780002254953	fiction
+270	9780002255028	fiction ; mystery ; thriller ; canadian ; canada ; horror
+271	9780002255073	fiction ; slavery ; historical fiction ; africa ; nova scotia ; canadian ; canada ; sierra leone ; south carolina ; history ; slave trade ; 2009 ; canadian author ; historical ; novel ; 18th century ; canada reads ; canadian fiction ; slaves ; black history ; england ; book club ; to-read ; women ; new york ; abolition ; london ; slavernij ; african american ; canadian literature ; revolutionary war ; united states ; loyalists ; read in 2009 ; america ; afrika ; wishlist ; charleston ; 2012 ; race ; 2010 ; 2008 ; usa ; american revolution ; kindle ; literature ; black ; african american loyalists ; historical novel ; racism ; canlit ; midwifery ; borrowed ; ebook
+272	9780002255080	fiction ; canadian ; canadian literature ; canada ; novel ; stratford ; ontario
+273	9780002255103	fiction ; religion ; mary ; virgin mary ; novel ; canadian ; catholic ; catholicism ; canadian literature
+274	9780002255134	fiction ; canadian
+275	9780002255196	fiction ; young adult ; canadian
+276	9780002255240	fiction ; canadian ; hiroshima ; japan ; atomic bomb ; historical fiction
+277	9780002255264	fiction ; canadian ; canada ; family ; giller prize ; canlit ; novel ; canadian fiction ; canadian literature ; canadian author ; ontario
+278	9780002255295	science fiction ; fiction
+279	9780002255349	balloons ; picture book ; mystery ; fiction ; imagination ; feelings ; science ; rhyme
+280	9780002255394	fiction
+281	9780002255639	fiction
+282	9780002257893	fiction ; historical fiction ; naval ; historical ; aubrey/maturin ; napoleonic wars ; nautical ; naval fiction ; sea ; nautical fiction ; age of sail ; sailing ; aubrey-maturin ; navy ; adventure ; 19th century ; novel ; maritime ; aubrey ; history ; series ; military ; england ; royal navy ; patrick o'brian ; war ; british ; o'brian ; maturin ; naval history ; literature ; jack aubrey ; napoleonic ; british navy ; historical novel ; sea stories ; ebook ; napoleon ; seafaring ; english ; 20th century ; folio society ; stephen maturin ; aubrey-maturin series ; british literature ; novels ; aubrey maturin ; napoleonic era ; ships
+283	9780002310697	mystery ; fiction ; crime ; roderick alleyn ; detective ; crime fiction ; england ; alleyn ; british ; inspector alleyn ; paperback
+284	9780002311151	mystery ; fiction ; crime ; roderick alleyn ; british ; crime fiction ; detective ; alleyn ; england ; inspector alleyn ; art
+285	9780002311618	mystery ; fiction ; crime ; roderick alleyn ; detective ; theatre ; british ; crime fiction ; england ; detective fiction ; paperback ; inspector alleyn ; alleyn ; novel ; shakespeare ; 1960s
+286	9780002312103	mystery ; fiction ; poirot ; hercule poirot ; crime ; agatha christie ; detective ; british ; novel ; ariadne oliver ; england ; crime fiction ; 20th century ; english ; christie ; murder ; british mystery ; detective fiction ; ebook ; murder mystery ; british literature ; the netherlands ; pb ; krimi ; cozy ; united kingdom ; paperback ; series ; english literature ; suspense ; golden age ; adult fiction
+287	9780002312158	mystery ; fiction ; roderick alleyn ; crime ; detective ; british ; crime fiction ; theatre ; alleyn ; inspector alleyn ; england ; 1930s ; golden age ; murder ; novel ; british mystery ; ngaio marsh ; series ; mysteries ; ebook
+288	9780002312677	mystery ; fiction ; crime ; roderick alleyn ; detective ; british ; crime fiction ; inspector alleyn ; england ; alleyn ; mysteries ; novel
+289	9780002313124	mystery ; fiction ; crime ; short stories ; poirot ; hercule poirot ; detective ; agatha christie ; crime fiction ; british ; 20th century ; ebook ; detective fiction ; england ; novel ; christie ; english ; murder mystery
+290	9780002313308	mystery ; fiction ; new zealand ; crime ; roderick alleyn ; british ; crime fiction ; detective ; alleyn ; inspector alleyn ; detective fiction ; murder ; novel ; paperback ; sheep ; murder mystery
+291	9780002314756	mystery ; fiction ; crime ; roderick alleyn ; detective ; crime fiction ; england ; alleyn ; paperback ; inspector alleyn ; british mystery
+292	9780002314770	mystery ; fiction ; roderick alleyn ; crime ; detective ; british ; macbeth ; england ; theatre ; theater ; alleyn ; golden age ; shakespeare ; ngaio marsh ; novel ; british mystery ; new zealand ; crime fiction ; mysteries ; ebook
+293	9780002315906	mystery ; fiction ; crime ; roderick alleyn ; british ; detective ; england ; crime fiction ; alleyn ; series ; inspector alleyn
+294	9780002316101	mystery ; fiction ; crime ; roderick alleyn ; detective ; england ; british ; alleyn ; crime fiction ; inspector alleyn ; pb ; mysteries ; paperback ; detective fiction ; 1950s ; folklore
+295	9780002316194	mystery ; fiction ; poirot ; hercule poirot ; crime ; agatha christie ; detective ; british ; novel ; crime fiction ; england ; 20th century ; murder ; christie ; english ; detective fiction ; british mystery ; murder mystery ; series ; british literature ; ebook ; pb ; mysteries ; golden age ; paperback ; english literature ; thriller ; suspense ; policier ; british fiction ; detective story ; literature ; adult fiction ; krimi ; to-read ; cozy ; united kingdom ; the netherlands
+296	9780002316651	mystery ; fiction ; crime ; roderick alleyn ; detective ; british ; england ; inspector alleyn ; alleyn ; theatre ; paperback ; crime fiction ; murder ; detective fiction ; police procedural ; theater
+297	9780002316828	mystery ; fiction ; crime ; british ; roderick alleyn ; crime fiction ; england ; detective ; alleyn ; series ; detective fiction ; inspector alleyn ; murder ; british mystery ; golden age ; paperback ; novel ; 1930s ; police procedural ; mysteries ; police
+298	9780002317221	mystery ; fiction ; crime ; roderick alleyn ; england ; british ; inspector alleyn ; alleyn ; detective ; detective fiction ; crime fiction
+299	9780002317283	mystery ; fiction ; crime ; roderick alleyn ; detective ; alleyn ; crime fiction ; paperback ; british ; mysteries ; detective fiction
+300	9780002317948	mystery ; fiction ; roderick alleyn ; crime ; british ; alleyn ; detective ; inspector alleyn ; france
+301	9780002318235	mystery ; fiction ; crime ; roderick alleyn ; christmas ; alleyn ; detective ; british ; mysteries ; novel ; ebook ; crime fiction
+302	9780002318570	mystery ; fiction ; crime ; roderick alleyn ; new zealand ; detective ; british ; alleyn ; opera ; mysteries ; crime fiction ; ebook ; inspector alleyn
+303	9780002318891	mystery ; fiction ; roderick alleyn ; crime ; rome ; alleyn ; detective ; crime fiction ; british ; italy ; inspector alleyn ; detective fiction ; paperback ; pb ; novel
+304	9780002318983	mystery ; fiction ; crime ; roderick alleyn ; new zealand ; british ; alleyn ; detective ; crime fiction ; murder ; inspector alleyn ; detective fiction ; novel
+305	9780002322140	mystery ; fiction ; new zealand ; crime ; roderick alleyn ; british ; detective ; alleyn ; crime fiction ; paperback ; inspector alleyn ; ngaio marsh ; murder ; novel ; 1940s ; scotland yard
+306	9780002322157	mystery ; fiction ; roderick alleyn ; crime ; british ; detective ; england ; crime fiction ; inspector alleyn ; artists ; mysteries ; murder ; series ; scotland yard ; 1930s ; british mystery ; detective fiction ; police ; alleyn ; novel ; police procedural ; new zealand ; golden age ; ngaio marsh ; art ; agatha troy
+307	9780002324014	mystery ; italy
+308	9780002324144	mystery ; fiction ; cats
+309	9780002324892	mystery
+310	9780002325318	mystery ; fiction ; art ; italy ; crime ; art history ; rome ; jonathan argyll ; detective ; crime fiction ; flavia di stefano ; england ; series ; novel ; historical fiction ; art history mystery ; 20th century ; police
+311	9780002325691	mystery
+312	9780002325981	mystery ; fiction
+313	9780002326384	mystery
+314	9780002435185	fiction
+315	9780002438070	fiction
+316	9780002441537	mystery ; fiction ; roderick alleyn ; crime ; detective ; crime fiction ; alleyn ; british ; england ; inspector alleyn ; scotland yard ; novel ; golden age ; mysteries
+317	9780002441872	mystery ; fiction ; roderick alleyn ; crime ; british ; detective ; england ; alleyn ; crime fiction ; inspector alleyn ; mysteries ; golden age ; new zealand ; 1930s ; series ; novel ; police
+318	9780002441940	mystery ; fiction ; crime ; roderick alleyn ; british ; detective ; alleyn ; inspector alleyn ; crime fiction ; novel ; paperback ; series ; england ; mysteries ; ebook ; pb ; 1930s
+319	9780002442374	mystery ; fiction ; roderick alleyn ; crime ; detective ; british ; crime fiction ; alleyn ; golden age ; england ; inspector alleyn ; paperback ; mysteries
+320	9780002447591	mystery ; fiction ; crime ; british ; roderick alleyn ; detective ; alleyn ; england ; inspector alleyn ; paperback ; crime fiction ; detective fiction ; murder ; pb
+321	9780002550291	cooking ; cookbook ; thailand ; thai
+322	9780002550321	cooking ; cookbook ; italy ; tuscany ; food ; italian ; cookbooks ; recipes
+323	9780002550635	memoir ; nature ; canada ; spirituality ; saskatchewan
+324	9780002551151	cooking ; asia ; asian ; cookbook ; cookbooks ; food; cooking ; china ; cookbook ; chinese ; cookbooks
+325	9780002551519	cookbook ; pacific northwest ; cooking
+326	9780002551540	cookbook ; cooking ; provence ; france ; french ; cookbooks ; recipes ; food
+327	9780002553483	cookbook ; cooking ; southwest
+328	9780002554008	inspirational ; biography ; devotional ; poetry ; christian ; religion
+329	9780002554039	fiction ; london ; novel ; england ; british ; desi
+330	9780002554114	psychology ; love
+331	9780002554367	history
+332	9780002556088	biography
+333	9780002556224	proust ; literary criticism
+334	9780002556347	spain ; history ; spanish civil war ; franco
+335	9780002556682	biography ; history ; england ; non-fiction ; 18th century ; nonfiction ; british history ; women ; aristocracy ; british ; english history ; royalty ; britain ; duchess of devonshire ; politics ; fiction ; regency ; historical fiction ; great britain ; historical ; devonshire ; nobility ; bio ; non fiction ; uk ; historical biography ; 2008 ; social history ; georgian ; fashion ; to read ; duchess ; aristocrats ; chatsworth ; georgiana spencer ; to-read ; georgiana ; women's history ; london ; french revolution ; english ; eighteenth century ; george iii ; gambling ; c18 ; spencer ; georgiana spencer cavendish
+336	9780002557207	memoir
+337	9780002557221	business
+338	9780002557573	united nations ; history ; politics ; international relations
+339	9780002557597	history ; canada ; non-fiction
+340	9780002557665	fiction ; mystery ; legal thriller ; crime ; thriller ; legal ; rape
+341	9780002558006	biography
+342	9780002558037	survival ; non-fiction
+343	9780002558105	business ; management ; non-fiction ; intel ; biography ; technology ; strategy
+344	9780002558174	sharpe ; history ; reference ; military history ; historical fiction ; napoleonic wars ; fiction ; napoleonic ; military ; richard sharpe
+345	9780002558631	ireland ; history ; northern ireland
+346	9780002558716	reference ; philosophy ; non-fiction ; dictionary ; politics ; ideas
+347	9780002559447	history ; wwii ; cryptography ; non-fiction ; espionage ; world war ii ; biography ; nonfiction ; ww2 ; memoir ; autobiography ; war ; soe ; codes ; spies ; military history ; military ; ww ii ; intelligence ; codebreaking ; spy ; world war two ; world war 2
+348	9780002559461	science ; biology ; survival ; non-fiction ; physiology
+349	9780002570954	letters ; biography ; kingsley amis
+350	9780002571586	sharpe ; history ; reference ; military history ; historical fiction ; napoleonic wars ; fiction ; napoleonic ; military ; richard sharpe
+351	9780002571890	biography ; england ; victorian ; history
+352	9780002710138	thriller ; fiction
+353	9780002710183	fiction
+354	9780002711357	fiction ; historical fiction ; flashman ; india ; historical ; adventure ; humor ; novel ; humour ; military ; 19th century ; british ; victorian ; history ; series ; war ; comedy ; flashman papers ; satire
+355	9780002711760	fiction
+356	9780002712330	fiction ; thriller
+357	9780002714013	fiction ; pirates ; historical fiction ; humor ; humour ; historical ; satire ; novel ; adventure
+358	9780002726870	burma ; memoir ; wwii ; military history ; history ; ww2 ; autobiography ; biography ; war ; world war ii ; ww ii ; military ; memoirs ; non-fiction ; second world war ; nonfiction
+359	9780002727464	history ; scotland ; england ; scottish history ; british history ; scottish ; border reivers ; borders ; non-fiction ; nonfiction ; military ; reivers ; english history ; britain ; 16th century
+360	9780002740906	economics
+361	9780003300093	fantasy ; fiction ; graphic novel ; narnia; fantasy ; fiction ; narnia ; children's ; children ; series ; classic ; young adult ; children's literature ; allegory ; chronicles of narnia ; adventure ; magic ; classics ; christian ; christianity ; childrens ; children's fiction ; religion ; ya ; novel ; c.s. lewis ; literature ; british ; juvenile ; lewis ; christian fiction ; the chronicles of narnia ; juvenile fiction ; chapter book ; animals ; c. s. lewis ; kids ; 20th century ; youth ; movie ; paperback ; england ; inklings ; children's books ; british literature ; children's lit ; aslan ; lion ; witches ; family ; religious ; illustrated ; talking animals ; fantasy fiction ; children's book ; witch ; childhood ; wardrobe ; siblings ; english ; lions ; novels ; cs lewis ; t ; english literature ; spanish ; favorites ; favorite ; accelerated reader ; made into movie ; audio ; children's fantasy ; to-read ; science fiction ; audiobook ; high fantasy ; level t ; war ; christian allegory ; literacy test ; group reading ; winter ; chapter books ; 2005 ; sff ; 1950s ; speculative fiction ; kindle ; school ; friendship ; ebook ; children's classics ; sf ; modern fantasy ; goodreads ; mythology ; youth fiction ; 5.7 ; theology ; library ; young adult fiction ; children's classic ; white witch ; sacrifice ; fantasy/sf ; pb ; home ; world war ii ; fairy tales ; lucy ; hardcover ; crd 400 ; 940l ; multiple copies ; 1950 ; faith ; good vs. evil ; book ; alternate worlds ; csl ; classic literature ; teen ; imagination ; already read ; britain ; christmas ; spirituality ; action ; 2011 ; susan ; childrens literature ; chapter ; read aloud ; mystery ; fairy tale ; christian fantasy ; peter ; ar ; betrayal ; picture book ; cd ; wwii ; young-adult ; other worlds ; classroom library ; british author ; parallel worlds ; 2006 ; 2007 ; anthropomorphism ; box 2 ; 2 copies ; jf ; anthropomorphic ; edmund ; kidlit ; juvenile literature ; 2010 ; ar 5.7 ; mythical creatures ; folio society ; series: chronicles of narnia
+362	9780003300901	fantasy ; fiction ; tolkien ; middle earth ; classic ; adventure ; classics ; hobbits ; lord of the rings ; novel ; literature ; dragons ; british ; magic ; dwarves ; middle-earth ; hobbit ; elves ; lotr ; children's ; wizards ; series ; epic ; 20th century ; young adult ; children's literature ; children ; british literature ; paperback ; epic fantasy ; translated ; hobbit collection ; english ; dragon ; high fantasy ; j.r.r. tolkien ; quest ; inklings ; fantasy fiction ; english literature ; 1001 ; science fiction ; bilbo baggins ; illustrated ; mythology ; gandalf ; folio society ; childrens ; ya ; favorites ; 1001 books ; sf ; novels ; tolkein ; roman ; fantasia ; the hobbit ; hardcover ; bilbo ; journey ; treasure ; sff ; classic literature ; green dragon ; children's fiction ; favorite ; prequel ; sci-fi ; to-read ; already read ; speculative fiction ; the lord of the rings ; wizard ; ebook ; gollum ; j. r. r. tolkien ; ring ; audio ; goblins ; movie ; 2012 ; trolls ; goodreads ; dwarfs ; audiobook ; jrr tolkien ; reread ; kindle ; smaug ; 1930s ; science fiction/fantasy ; adult ; dwarf ; kids ; mittelerde ; friendship ; made into movie ; finished ; children's books ; pb ; sci-fi/fantasy ; hardback ; orcs ; uk ; home ; england ; classic fiction ; travel ; juvenile fiction ; war ; juvenile ; @woking_s1_6 ; elf ; myth ; children's lit ; read in 2012 ; children's book ; classic fantasy ; quests ; folio ; british fiction ; french ; library ; action ; fantasía ; 20th century literature ; 2011 ; 20th century fiction ; to read ; adult fiction ; 1937 ; british author ; spanish ; scifi ; youth ; fantasiakirjallisuus ; britain ; childhood ; fictie ; j r r tolkien ; sci fi ; german ; easton press ; book ; british lit ; gift ; genre: fantasy ; narrativa ; hb ; school ; fic ; novela ; science fiction and fantasy ; graphic novel ; audio book ; teen ; shire ; hc ; fantasie ; gold ; classic lit ; 2013 ; duplicate ; skönlitteratur
+363	9780003302165	fiction
+364	9780003303186	memoir ; autobiography ; animals ; biography ; greece ; nature ; non-fiction ; humor ; corfu ; humour ; natural history ; fiction ; travel ; nonfiction ; family ; memoirs ; childhood ; folio society ; 20th century ; british ; comedy ; zoology ; wildlife ; gerald durrell ; english literature ; non fiction ; biology ; british literature ; literature ; durrell ; paperback ; english ; classic ; children ; to-read ; families ; essays ; naturalist ; autobiographical ; science ; children's ; narrativa ; england ; wishlist ; biography/autobiography ; novela
+365	9780003702576	grammar ; english ; language
+366	9780004133485	art
+367	9780004133492	art ; watercolour ; painting
+368	9780004133638	art ; painting ; drawing ; reference ; art technique ; non-fiction
+369	9780004140056	woodworking ; crafts ; woodwork ; diy ; carpentry
+370	9780004141015	diy ; reference ; non-fiction ; home
+371	9780004356655	scotland ; history ; reference
+372	9780004488936	reference ; atlas
+373	9780004704746	drama ; shakespeare ; poetry ; plays ; fiction ; literature ; classics ; classic ; theatre ; play ; english literature ; anthology ; british ; theater ; english ; british literature ; 16th century ; collection ; comedy ; renaissance ; tragedy ; elizabethan ; sonnets ; 17th century ; england ; william shakespeare ; reference ; hardcover ; history ; classic literature ; complete works ; poems ; omnibus ; early modern ; textbook ; collected works ; compilation ; english drama ; comedies ; elizabethan drama ; script ; romance ; britain ; non-fiction ; lit ; tragedies ; partially read ; renaissance literature ; anthologies ; kindle ; school ; historical fiction ; illustrated ; early modern plays ; renaissance drama 1485-1659 ; 16th century literature ; shakespeare: plays ; scripts ; hardback ; historical ; british lit ; humor ; nonfiction ; hamlet ; elizabethan literature ; toneel ; uk ; hc ; english lit ; english poetry ; classic fiction ; home ; annotated ; histories ; works ; verse ; brit lit ; collections ; macbeth ; literatuur ; théâtre ; fantasy ; europe ; leatherbound ; 1 ; shakespeare's poetry: texts and criticism ; love ; complete ; favorite ; ebook ; favorites ; college ; library ; 17th century literature ; sonnet ; to-read ; teatro ; hb ; leather bound ; paperback ; english renaissance ; adult ; already read ; klassiker ; william ; gift ; the bard ; literary criticism ; classical literature ; criticism ; office ; prose ; engels ; shakespeare: complete works ; slipcased ; british drama ; to read ; lyrik ; literary ; edition ; poëzie ; shakespeare william ; complete authors ; renaissance drama ; 17c ; living room ; biography ; norton ; book ; unfinished ; antique ; fictie ; othello ; 16th c. ; shakespeare editions ; british poetry ; canon ; poesi ; jacobean ; early modern poetry ; c16 ; classical ; classic lit ; j ; novel ; humour ; 822.33 ; great books ; lr ; art ; sixteenth century ; old ; textbooks ; engelse literatuur ; br ; englisch ; death
+374	9780004707105	german ; dictionary ; reference ; language ; non-fiction ; dictionaries ; languages ; german language ; english ; nonfiction ; foreign language ; deutsch ; germany ; german-english ; german dictionary
+375	9780004707518	french ; reference ; dictionary ; language ; non-fiction ; dictionaries ; english ; french language ; languages ; nonfiction ; travel
+376	9780004707532	irish ; dictionary ; language ; reference ; gaeilge ; english ; ireland ; non-fiction
+377	9780004707631	latin ; reference ; dictionary ; language ; languages ; dictionaries ; non-fiction ; english ; nonfiction ; classics ; latin language ; foreign language
+378	9780004707662	french ; reference ; dictionary ; language ; non-fiction ; dictionaries ; english ; french language ; languages ; nonfiction ; travel
+379	9780004708232	reference ; japanese ; language ; dictionary; japanese
+380	9780004710303	dictionary ; italian ; reference ; language
+381	9780004722757	spiders
+382	9780004723020	survival ; reference ; non-fiction ; outdoors ; sas ; camping ; military ; travel ; nonfiction ; wilderness ; nature ; first aid ; preparedness ; guide ; backpacking ; bushcraft ; non fiction ; how-to ; hiking ; outdoor
+383	9780004723686	reference ; french ; dictionary ; language ; dictionaries ; french language ; non-fiction ; languages ; english ; nonfiction ; france ; foreign language ; dictionnaire ; français ; french-english ; english language; reference ; french ; dictionary ; languages
+384	9780004724027	german ; dictionary ; reference ; language
+385	9780004724386	reference ; dictionary ; french ; language ; languages ; french language ; non-fiction
+386	9780004724539	weapons ; reference ; guns ; firearms
+387	9780004725024	reference ; dictionary ; non-fiction
+388	9780005991282	theology; theology
+389	9780006135128	fiction ; thriller ; adventure ; war ; wwii ; military ; novel ; historical fiction ; suspense ; ww2 ; world war ii ; military fiction ; mystery ; roman ; navy ; naval fiction ; war fiction ; naval ; ebook
+390	9780006144946	fiction ; thriller ; adventure ; mystery ; suspense ; espionage ; san francisco
+391	9780006151357	fiction ; thriller ; mystery ; adventure ; suspense ; crime ; racing ; novel
+392	9780006153603	fiction ; thriller ; suspense ; adventure ; mystery ; paperback ; novel
+393	9780006156505	mystery ; fiction ; roderick alleyn ; crime ; detective ; british ; crime fiction ; theatre ; alleyn ; inspector alleyn ; england ; 1930s ; golden age ; murder ; novel ; british mystery ; ngaio marsh ; series ; mysteries ; ebook
+394	9780006157489	fiction ; thriller ; adventure ; mystery ; suspense ; espionage ; france ; novel ; spy
+395	9780006157496	fiction ; thriller ; adventure ; suspense ; mystery ; espionage ; cold war ; paperback ; hungary
+396	9780006157502	thriller ; fiction ; adventure ; suspense ; novel ; mystery ; espionage ; 20th century ; crime
+397	9780006157519	fiction ; thriller ; adventure ; suspense ; mystery ; crime ; novel ; espionage ; amsterdam ; spy
+398	9780006158042	fiction ; thriller ; wwii ; adventure ; espionage ; war ; germany ; mystery ; suspense ; paperback ; novel ; spy ; military fiction ; ww2 ; action ; military ; second world war ; historical fiction ; 20th century ; world war ii ; world war 2 ; ebook
+399	9780006159919	fiction ; thriller ; adventure ; mystery ; suspense ; novel ; paperback
+400	9780006161226	fiction ; thriller ; adventure ; suspense ; mystery ; arctic ; espionage ; maclean ; ebook ; alistair maclean ; greenland
+401	9780006161417	fiction ; thriller ; adventure ; espionage ; mystery ; suspense ; arctic ; novel ; spy ; paperback ; cold war ; submarines ; spies ; 20th century ; ebook ; military ; submarine
+402	9780006162667	fiction ; thriller ; adventure ; alaska ; mystery ; suspense ; espionage ; canada ; oil ; novel
+403	9780006163350	fiction ; thriller
+404	9780006164333	fiction ; thriller ; wwii ; adventure ; war ; suspense ; novel ; mystery ; military ; paperback ; ww2 ; yugoslavia ; espionage ; world war ii ; action ; 20th century
+405	9780006164340	fiction ; thriller ; adventure ; mystery ; suspense ; novel ; arctic ; espionage ; alistair maclean ; maclean
+406	9780006164746	fiction ; thriller ; adventure ; suspense ; mystery ; espionage ; novel
+407	9780006164968	fiction ; thriller ; adventure ; mystery ; suspense
+408	9780006165736	fiction ; historical fiction ; sharpe ; napoleonic wars ; historical ; military ; military fiction ; war ; richard sharpe ; history ; napoleonic ; 19th century ; novel ; british ; peninsular war ; adventure ; spain ; ebook ; military history ; bernard cornwell ; historical novel ; napoleon
+409	9780006165835	fiction ; historical fiction ; aubrey/maturin ; napoleonic wars ; naval ; historical ; nautical ; aubrey-maturin ; age of sail ; naval fiction ; novel ; adventure ; nautical fiction ; maritime ; royal navy ; 19th century ; navy ; sailing ; military ; sea ; series ; aubrey ; naval history ; patrick o'brian ; war ; sea stories ; england ; folio society ; napoleonic ; history ; british ; british navy ; seafaring ; maturin ; o'brian ; 20th century ; literature ; jack aubrey ; historical novel ; english ; aubrey maturin ; british literature ; ebook ; ships ; napoleonic era ; stephen maturin ; mediterranean ; aubrey-maturin series ; napoleon ; britain ; english literature ; military fiction ; audiobook
+410	9780006166467	fiction ; wwii ; war ; world war ii ; submarines ; germany ; novel ; ww2 ; roman ; historical fiction ; military ; history ; submarine ; german ; german literature ; naval ; military fiction ; u-boats ; u-boat ; paperback
+411	9780006167358	fiction ; thriller ; espionage ; adventure ; mystery ; suspense ; circus ; novel ; cold war ; spy
+412	9780006167365	mystery ; fiction ; crime ; short stories ; agatha christie ; detective ; crime fiction ; the netherlands ; united kingdom ; 20th century ; british
+413	9780006167631	fiction ; thriller ; suspense ; adventure ; mystery ; wwii ; war ; espionage ; novel
+414	9780006168348	historical fiction ; fiction ; sharpe ; napoleonic wars ; historical ; military ; war ; napoleonic ; military fiction ; richard sharpe ; 19th century ; history ; peninsular war ; british ; spain ; military history ; ebook ; novel ; adventure ; napoleon ; bernard cornwell
+415	9780006169017	fiction
+416	9780006169116	fiction ; thriller ; mystery ; adventure ; suspense ; novel
+417	9780006170112	fiction
+418	9780006170136	historical fiction ; fiction ; sharpe ; napoleonic wars ; historical ; military ; war ; military fiction ; napoleonic ; peninsular war ; richard sharpe ; history ; 19th century ; military history ; british ; novel ; ebook ; napoleon ; bernard cornwell
+419	9780006170266	fiction ; thriller ; suspense ; mystery ; wwii ; adventure
+420	9780006171041	mystery ; fiction ; short stories ; crime ; agatha christie ; united kingdom ; crime fiction ; british; mystery ; fiction ; short stories ; crime ; crime fiction
+421	9780006171980	historical fiction ; fiction ; sharpe ; historical ; napoleonic wars ; military ; war ; military fiction ; richard sharpe ; napoleonic ; peninsular war ; history ; 19th century ; novel ; bernard cornwell ; napoleon ; spain ; adventure ; british ; historical novel ; military history
+422	9780006172444	children's ; fiction ; orphans ; children ; children's fiction ; england ; childrens ; children's literature; fiction
+423	9780006172468	fiction
+424	9780006172475	fiction ; thriller ; wwii ; war ; adventure ; suspense ; world war ii ; historical fiction ; novel ; mystery ; action ; greece ; espionage ; ww2 ; military fiction ; paperback ; military ; maclean ; sabotage ; world war 2 ; war fiction ; historical ; british ; movie ; 20th century ; ebook ; second world war
+425	9780006172772	fiction ; short stories ; thriller ; suspense ; adventure
+426	9780006173137	fiction ; historical fiction ; sharpe ; napoleonic wars ; historical ; military ; war ; military fiction ; richard sharpe ; 19th century ; history ; spain ; peninsular war ; napoleonic ; adventure ; napoleon ; series ; british ; historical novel ; military history ; ebook ; bernard cornwell ; novel ; sharpe series ; action ; british army ; wellington
+427	9780006173144	fiction ; historical fiction ; sharpe ; napoleonic wars ; historical ; military ; military fiction ; richard sharpe ; war ; napoleonic ; history ; peninsular war ; 19th century ; adventure ; military history ; novel ; british ; spain ; historical novel ; napoleon ; series ; ebook
+428	9780006173502	fiction ; romance ; mystery ; gothic ; gothic romance ; historical fiction ; suspense
+429	9780006174523	historical fiction ; fiction ; sharpe ; historical ; napoleonic wars ; military ; war ; napoleonic ; military fiction ; richard sharpe ; history ; peninsular war ; 19th century ; british ; napoleon ; adventure ; military history ; ebook ; historical novel
+430	9780006174530	fiction ; thriller ; adventure ; mystery ; suspense
+431	9780006174707	fiction
+432	9780006174752	mystery ; fiction ; agatha christie ; crime ; british ; detective ; novel ; england ; colonel race ; south africa ; crime fiction ; christie ; 20th century ; the netherlands ; british mystery ; english ; krimi ; 1920s ; murder ; africa ; thriller ; paperback ; romance ; mysteries ; pb ; detective fiction ; adventure ; murder mystery ; united kingdom ; cozy mystery ; diamonds ; london ; suspense ; espionage ; ebook ; series ; anne beddingfeld
+433	9780006175247	historical fiction ; fiction ; sharpe ; historical ; napoleonic wars ; military ; war ; military fiction ; richard sharpe ; napoleonic ; 19th century ; peninsular war ; history ; novel ; napoleon ; military history ; british ; historical novel
+434	9780006176664	horror ; fiction ; fantasy ; paperback ; horror fiction ; novel
+435	9780006176756	fiction
+436	9780006176787	fiction ; historical fiction ; flashman ; historical ; adventure ; novel ; humour ; humor ; germany ; victorian ; 19th century ; history ; military ; satire ; british ; comedy ; literature ; 20th century ; flashman papers ; british empire ; f
+437	9780006176800	fiction ; historical fiction ; flashman ; afghanistan ; adventure ; historical ; humor ; humour ; victorian ; novel ; india ; british ; history ; 19th century ; war ; british empire ; military ; satire ; england ; 20th century ; series ; colonialism ; paperback ; literature ; comedy ; britain ; historical novel ; to-read ; empire ; roman ; military fiction ; uk ; british fiction ; thriller ; first afghan war ; flashman papers
+438	9780006176909	fiction ; politics ; thriller
+439	9780006176978	historical fiction ; fiction ; sharpe ; napoleonic wars ; historical ; military ; military fiction ; war ; napoleonic ; richard sharpe ; spain ; history ; 19th century ; peninsular war ; adventure ; british ; series ; napoleon ; novel ; bernard cornwell ; ebook ; sharpe series ; british army ; historical novel ; military history ; napoleonic era
+440	9780006177739	fiction ; historical fiction ; flashman ; historical ; adventure ; novel ; humor ; humour ; madagascar ; military ; borneo ; victorian ; 19th century ; history ; cricket ; war ; british ; series ; paperback ; singapore ; satire
+441	9780006177845	historical fiction ; fiction ; sharpe ; napoleonic wars ; historical ; military ; military fiction ; war ; richard sharpe ; napoleonic ; 19th century ; history ; peninsular war ; napoleon ; british ; bernard cornwell ; ebook ; military history
+442	9780006178767	historical fiction ; fiction ; sharpe ; napoleonic wars ; historical ; military ; war ; richard sharpe ; history ; military fiction ; waterloo ; adventure ; napoleonic ; napoleon ; 19th century ; british ; ebook ; bernard cornwell ; historical novel ; military history
+443	9780006178859	fiction ; historical fiction ; aubrey/maturin ; naval ; historical ; napoleonic wars ; nautical ; age of sail ; naval fiction ; aubrey-maturin ; adventure ; maritime ; novel ; nautical fiction ; 19th century ; royal navy ; navy ; sea ; aubrey ; military ; sailing ; series ; british ; napoleonic ; patrick o'brian ; o'brian ; history ; naval history ; war ; sea stories ; seafaring ; maturin ; england ; british navy ; literature ; folio society ; 20th century ; historical novel ; ebook ; jack aubrey ; english ; aubrey maturin ; ships ; napoleonic era ; british literature ; sailing ships
+444	9780006179290	fiction ; historical fiction ; aubrey/maturin ; naval ; historical ; napoleonic wars ; age of sail ; nautical ; naval fiction ; aubrey-maturin ; nautical fiction ; adventure ; maritime ; novel ; sea ; sailing ; 19th century ; series ; royal navy ; navy ; military ; patrick o'brian ; british ; aubrey ; history ; sea stories ; o'brian ; napoleonic ; naval history ; british navy ; war ; literature ; england ; seafaring ; maturin ; folio society ; jack aubrey ; historical novel ; 20th century ; ebook ; british literature ; english ; ships ; napoleonic era ; australia ; aubrey maturin ; stephen maturin ; novels
+445	9780006236832	religion ; christianity ; spirituality ; theology ; devotional ; christian living ; christian ; catholic ; catholicism ; prayer ; classics ; classic ; non-fiction ; christian life ; spiritual formation ; meditations ; spiritual life ; nonfiction ; mysticism ; medieval ; discipleship ; jesus christ ; jesus ; devotion ; philosophy ; church history ; literature ; devotional literature ; religious ; christ ; 15th century ; christian classics ; spiritual classics ; devotions ; faith ; spiritual growth ; christian classic ; catholic church ; meditation ; 242 ; inspirational ; middle ages ; christian spirituality ; logos ; spiritual disciplines ; penguin classics ; roman catholic ; christology ; sanctification ; thomas a kempis ; history ; spiritual ; folio society ; medieval literature ; monasticism ; kindle ; god ; saints ; ebook ; spiritual reading ; prayers ; devotional theology ; catholic spirituality ; religie ; kempis ; book ; spiritual discipline ; penguin ; office ; church ; devotionals ; holiness ; to-read ; your library ; stl-prayer ; th4907 spirituality in church history ; 242 kem
+446	9780006253716	theology ; ethics ; essays ; christianity ; apologetics ; religion ; christian ; lewis ; c.s. lewis ; philosophy ; inklings ; non-fiction ; c. s. lewis ; nonfiction ; christian living ; spirituality
+447	9780006266877	spirituality ; benedictine ; monasticism ; religion ; christianity ; benedict ; st. benedict ; christian ; spiritual formation ; th4907 spirituality in church history ; catholic
+448	9780006270225	spirituality ; benedictine ; monasticism ; religion ; christianity
+449	9780006275756	celtic ; spirituality ; christianity ; celtic spirituality
+450	9780006276197	humour ; fiction ; christianity ; christian
+451	9780006276586	cats ; cathedrals
+452	9780006276623	history ; civil rights ; malcolm x ; race ; non-fiction ; african american
+453	9780006279358	spirituality ; mysticism ; religion ; saints ; christianity ; catholicism ; prayer ; catholic ; theology ; carmelite ; christian ; teresa of avila ; st. teresa of avila ; non-fiction ; 16th century ; spain ; spiritual life ; devotional ; nonfiction ; church history ; contemplation ; god ; spiritual formation ; classic
+454	9780006279938	spirituality ; benedictine ; monasticism ; religion ; christianity ; benedict ; st. benedict ; christian ; spiritual formation ; th4907 spirituality in church history ; catholic
+455	9780006280606	fiction ; religion ; christianity ; theology ; christian ; fantasy ; literature ; spirituality ; satire ; c.s. lewis ; apologetics ; christian living ; spiritual warfare ; demons ; christian fiction ; humor ; philosophy ; devil ; classics ; temptation ; religious ; classic ; lewis ; epistolary ; c. s. lewis ; inklings ; christian life ; novel ; folio society ; allegory ; letters ; satan ; 20th century ; ethics ; humour ; british ; non-fiction ; sin ; audiobook ; spiritual ; hell ; faith ; cs lewis ; christian ethics ; english literature ; british literature ; english ; evil ; devils ; demonology ; wormwood ; audio ; c s lewis ; paperback ; christian literature ; demon ; screwtape ; cslewis ; christian classics ; inspirational ; sff ; devotional ; novels ; morality ; adult; fiction ; religion ; christianity ; christian ; theology ; fantasy ; c.s. lewis ; philosophy ; literature ; christian fiction ; demons ; apologetics ; christian living ; classic ; spirituality ; lewis ; satire ; classics ; spiritual warfare ; letters ; humor ; religious ; devil ; temptation ; inklings ; faith ; non-fiction ; allegory ; c. s. lewis ; british ; cs lewis ; 20th century ; satan ; christian life ; epistolary ; novel ; spiritual ; evil ; hell ; paperback ; nonfiction ; ethics ; to-read ; devils ; god ; religious fiction ; humour ; sin ; screwtape ; to read ; favorites ; adult ; testings ; demonology ; already read ; cs lewis testing feature ; christian literature ; essays ; british literature ; christian ethics ; wormwood ; english literature ; morality ; england ; c s lewis ; english ; catholic ; ebook ; folio society ; novels ; religious studies ; christian classics ; library ; christian apologetics ; classic literature ; demon ; favorite ; finished ; audiobook ; 248.4 ; 2008 ; pb ; spiritual life ; literary fiction ; inspirational ; good and evil ; christian thought ; devotional ; correspondence ; goodreads ; inspiration ; audio ; spiritual growth ; 248.4 lew
+456	9780006280835	biography ; autobiography ; christianity ; religion ; memoir ; christian ; c.s. lewis ; non-fiction ; theology ; nonfiction ; inklings ; lewis ; spirituality ; conversion ; apologetics ; c. s. lewis ; philosophy ; joy ; christian living ; memoirs ; literature ; cs lewis ; religious ; faith ; 20th century ; england ; atheism ; british ; christian biography ; biography/autobiography ; to-read ; classics ; biographical ; autobiographical ; adult ; christian life ; spiritual ; c s lewis ; spiritual life ; already read ; library ; c.s.lewis ; british literature ; history ; paperback ; anglican converts ; classic
+457	9780006280866	spirituality ; christianity ; spiritual life ; christian living ; religion ; christian ; spiritual formation ; theology ; prayer ; nouwen ; christian life ; hospitality ; catholicism ; catholic ; spiritual ; devotional ; discipleship ; henri nouwen ; solitude ; nonfiction ; meditation
+458	9780006280897	christianity ; theology ; love ; religion ; philosophy ; christian ; non-fiction ; c.s. lewis ; nonfiction ; christian living ; lewis ; essays ; inklings ; spirituality ; friendship ; relationships ; c. s. lewis ; eros ; apologetics ; affection ; charity ; literature ; faith ; religious ; christian life ; agape ; ethics ; cs lewis ; psychology ; classics ; marriage ; classic ; fiction ; 20th century ; essay ; christian thought ; to-read ; british ; god
+459	9780006281443	ethics ; philosophy
+460	9780006329091	philosophy; philosophy ; hume ; epistemology ; empiricism ; ethics ; non-fiction ; enlightenment ; 18th century ; nonfiction ; human nature ; modern philosophy ; metaphysics ; skepticism ; british ; scottish ; scottish enlightenment ; c18 ; early modern ; political theory ; psychology ; early modern philosophy ; filosofi ; history ; scotland ; history of philosophy ; british philosophy ; modern ; david hume ; filosofie
+461	9780006331698	philosophy ; essays ; literary criticism ; theory ; critical theory ; criticism ; frankfurt school ; german ; non-fiction ; aesthetics ; literature ; literary theory ; nonfiction ; cultural studies ; marxism ; art ; benjamin ; history ; german literature ; 20th century ; culture ; translation ; walter benjamin ; kafka ; germany ; baudelaire ; lit crit ; cultural criticism ; cultural theory ; hannah arendt ; proust ; to-read ; essay ; politics ; social theory ; philosophy of history ; litcrit
+462	9780006345534	fiction ; animals ; humour ; elephants ; novel
+463	9780006353287	autobiography ; biography ; agatha christie ; non-fiction ; mystery ; memoir ; nonfiction ; british ; christie ; england ; 20th century ; fiction ; writer ; memoirs ; literature ; author ; history
+464	9780006361688	autobiography ; liverpool ; poverty ; biography ; england ; fiction ; non-fiction
+465	9780006363125	humour ; autobiography ; biography ; animals ; humor
+466	9780006364948	autobiography ; liverpool ; fiction ; non-fiction
+467	9780006365402	autobiography ; liverpool ; biography ; fiction
+468	9780006370000	liverpool ; autobiography ; fiction
+469	9780006370109	animals ; autobiography ; biography ; natural history ; nature
+470	9780006372677	travel ; biography ; autobiography ; africa ; ethiopia ; middle east ; exploration
+471	9780006374664	science ; biology ; morphic resonance ; philosophy
+472	9780006374749	mystery ; biography ; agatha christie
+473	9780006375210	biography ; history ; napoleon ; france ; french history ; nonfiction ; non-fiction ; military history ; napoleonic wars
+474	9780006375517	history
+475	9780006375951	india ; travel ; delhi ; history ; non-fiction ; nonfiction ; travel writing ; memoir ; asia ; travelogue ; biography ; culture
+476	9780006376019	biography ; exploration ; tibet ; history ; great game ; central asia ; india
+477	9780006376675	armenia ; travel
+478	9780006378938	fantasy ; mermaids ; fiction ; children's fiction ; young adult ; ya ; ocean ; adventure ; england ; children's ; children ; cornwall
+479	9780006378976	historical fiction ; fiction ; slavery ; england ; historical ; romance ; slave trade ; 18th century ; history
+480	9780006380221	parenting ; postpartum ; birth
+481	9780006380450	fiction ; short stories ; love ; signed ; novel ; american ; san francisco ; contemporary ; humor ; to-read ; romance ; contemporary fiction ; arc ; california ; autographed
+482	9780006380597	history ; politics ; non-fiction ; political science ; economics ; current affairs ; international relations ; sociology ; nonfiction
+483	9780006380627	history ; canada ; politics ; biography
+484	9780006380726	history ; india ; east india company ; england ; non-fiction ; indian history ; english history ; asia ; british empire
+485	9780006383482	religion ; history ; islam ; christianity ; fundamentalism ; judaism ; non-fiction ; nonfiction ; theology ; comparative religion ; god ; religious history ; politics ; church history ; spirituality ; history of religion ; religious studies ; world religions ; monotheism ; religious fundamentalism ; philosophy ; middle east ; karen armstrong ; culture ; israel ; non fiction ; atheism ; sociology ; armstrong ; geschiedenis
+486	9780006384076	biography
+487	9780006384359	music
+488	9780006384946	literature ; books
+489	9780006385004	literature ; books
+490	9780006385097	history ; biography ; england ; non-fiction ; elizabeth i ; british history ; mary queen of scots ; tudor ; scotland ; nonfiction ; tudors ; royalty ; english history ; queen elizabeth i ; historical ; queens ; 16th century ; britain ; tudor history ; scottish history ; women ; british royalty ; elizabethan
+491	9780006385127	self help ; self-help ; non-fiction ; philosophy ; inspirational ; spiritual ; spirituality ; personal development ; self improvement ; fiction ; psychology ; life
+492	9780006385233	history ; canada
+493	9780006385264	memoir ; mental illness ; nonfiction ; non-fiction ; psychology ; bipolar ; arc ; biography ; family ; new york ; bipolar disorder ; psychosis ; 2009 ; to read ; memoirs
+494	9780006385288	fiction ; new york ; roman ; italian ; italy ; immigration
+495	9780006385400	biography; biography ; canadian
+496	9780006385585	biography ; canadian
+497	9780006385622	business
+498	9780006385899	history ; sexuality
+499	9780006386032	history ; technology ; tools ; non-fiction ; engineering ; design ; nonfiction ; science ; history of technology ; screwdriver
+500	9780006386070	history ; canada ; non-fiction
