@@ -98,6 +98,6 @@ def main(infile,outfile):
     print '-'*40
 
 if __name__ == '__main__':
-    infile = '../foldername/lib_test.txt'
+    infile = '../foldername/LibraryThingTest.txt'
     outfile = '../foldername/test_tag_out.txt'
     main(infile,outfile)
